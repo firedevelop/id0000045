@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">id0000045</string>
+    <string name="tvper">tvper</string>
+    <string name="btnstart">btnstart</string>
+    <string name="progressdialog">progressdialog</string>
+    <string name="btncancel">btncancel</string>
+    <string name="textview">TextView</string>
+</resources>
